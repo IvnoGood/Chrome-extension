@@ -1,0 +1,11 @@
+{
+    "name": "Weather In France",
+    "version": "1.0.0",
+    "description": "Read the title",
+    "manifest_version": 3,
+    "author": "IvnoGood",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Latest Covid Report"
+    }
+}

@@ -1,0 +1,37 @@
+#Call {
+    border-radius: 15px;
+    border: none;
+    height: 30px;
+    color: white;
+    background-color: rgb(121, 121, 223);
+}
+
+#zone {
+    border-radius: 15px;
+    border: 1px solid black;
+    height: 18px;
+    padding-left: 5px;
+}
+
+#temp {
+    margin: 0px;
+    margin-left: 15px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+
+}
+
+body {
+    margin: 0;
+}
+
+main {
+    background-image: url(https://media1.tenor.com/m/WhD4AWN30YkAAAAC/clouds-moving.gif);
+    background-repeat: no-repeat;
+
+}
+
+html {
+    width: 300px;
+    height: fit-content;
+}
