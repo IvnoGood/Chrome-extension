@@ -1,0 +1,39 @@
+:root {
+    --accent: rgb(121, 121, 223);
+    --background: rgb(56, 76, 167)
+}
+
+#temp {
+    border: none;
+    border-radius: 10px;
+    margin-right: 15px;
+    cursor: pointer;
+    width: 100px;
+}
+
+#temp:focus {
+    outline: 1px solid rgb(224, 224, 224);
+}
+
+main {
+    padding: 15px;
+    background-color: var(--background);
+    display: flex;
+}
+
+#save {
+    border: 1px solid white;
+    border-radius: 10px;
+    color: white;
+    background-color: var(--accent);
+    cursor: pointer;
+    width: 50px;
+    height: 25px;
+}
+
+#status {
+    color: white;
+    font-size: 15px;
+    margin-left: 15px;
+    margin-top: 2px;
+}

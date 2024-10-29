@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": 2.1692,
+        "lat": 48.7326
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "couvert",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 61.23,
+        "feels_like": 60.91,
+        "temp_min": 59.09,
+        "temp_max": 62.69,
+        "pressure": 1025,
+        "humidity": 82,
+        "sea_level": 1025,
+        "grnd_level": 1011
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.61,
+        "deg": 220
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1730126713,
+    "sys": {
+        "type": 2,
+        "id": 2033814,
+        "country": "FR",
+        "sunrise": 1730097116,
+        "sunset": 1730133482
+    },
+    "timezone": 3600,
+    "id": 2982043,
+    "name": "Saclay",
+    "cod": 200
+}
